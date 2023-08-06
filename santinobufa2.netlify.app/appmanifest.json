@@ -1,0 +1,16 @@
+{
+	"name": "Mi argentina",
+	"short_name": "Mi argentina",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icono-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
